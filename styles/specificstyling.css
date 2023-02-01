@@ -1,4 +1,8 @@
-.listen {
-    color:rgb(110, 151, 48);
-    font-size: 20px;
+#listen {
+    color: rgb(95, 154, 95);
+}
+
+#fun {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Solitreo', cursive;
 }
